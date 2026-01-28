@@ -1,9 +1,9 @@
 /*qno 1= introduction to constructor in OOPS concepts
 Date : 1/28/2026
 Author : Kritan Niraula */
-public class qno3 {
+public class qno4 {
     public static void main(String[] args) {
-         Students s1 = new Students();
+         Student s1 = new Student();
         s1.name ="kritan";
         s1.age = 20;
         s1.printinfo();
@@ -11,11 +11,11 @@ public class qno3 {
         
     }
 }
-class Students{
+class Student{
     String name;
     int age;
 
-    Students(){
+    Student(){
             System.out.println("constructor called");
         }
 
