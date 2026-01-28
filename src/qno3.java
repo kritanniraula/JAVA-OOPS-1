@@ -16,14 +16,12 @@ class Students{
     int age;
 
     Students(){
-            System.out.println("constructor called");
-        }
+        System.out.println("constructor called");
+    }
 
    public void printinfo(){
         System.out.println(this.name);
         System.out.println(this.age);
    }
 
-   
-    
 }
