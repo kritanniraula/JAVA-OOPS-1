@@ -8,4 +8,6 @@ qno4 = parameterized constructor<br>
 qno5 = paramaterized constructor and copy constructor<br>
 qno6 = copy constructor<br><br>
 "POLYMORPHISM"<br>
-
+qno7 = polymorphism "compile time"<br><br>
+"INHERITANCE"<br>
+qno8 = inheritance (basic)<br>
