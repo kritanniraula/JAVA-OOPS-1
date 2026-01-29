@@ -1,4 +1,4 @@
-/*qno 5 =  copy constructor in OOPS concepts
+/*qno 5 =  copy constructor + paraneterized constructor in OOPS concepts
 Date : 1/28/2026
 Author : Kritan Niraula */
 public class qno5 {
